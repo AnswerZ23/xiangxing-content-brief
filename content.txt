@@ -120,7 +120,7 @@ AI 强调：主标题中的“AI”做着重标示。具体表现由 Claude Desi
 
 身份信息：放在主标题下面，仅显示“【头像】赵杨春”。“【头像】”代表头像图片位置，不是最终页面文字；不显示“AI 增长顾问”“身份署名”或其他身份说明。
 
-头像素材：待赵杨春提供或指定真实头像。设计阶段可保留头像占位，不使用生成的人像冒充本人；最终呈现为头像图片与姓名。
+头像素材：已提供，来自桌面“AI获客合作提案素材库/第1页/22b16f6becbf40619119c9a4e5de7a5f.png”。使用此图片作为封面头像，替换头像占位，主标题下仍仅显示头像和赵杨春姓名。读取头像原图 (https://answerz23.github.io/xiangxing-content-brief/assets/p01-avatar.png)。
 
 入口文案：进入合作需求地图
 
@@ -220,37 +220,37 @@ Nox聚星
 
 红人数据 · 营销工具 · 专家服务
 
-Nox聚星官网
+Nox聚星官网 (https://cn.noxinfluencer.com/)
 
 WotoHub卧兔
 
 红人搜索 · 推荐匹配 · 合作管理
 
-搜索功能说明；CRM管理说明
+搜索功能说明 (https://mkt.wotohub.com/newsinfo/6988537.html)；CRM管理说明 (https://mkt.wotohub.com/newsinfo/5872189.html)
 
 FisherKOL
 
 红人匹配 · 数据分析 · 营销服务
 
-FisherKOL官网
+FisherKOL官网 (https://www.fisherkol.com/)
 
 InsMark映马传媒
 
 海外红人营销 · 项目执行
 
-映马传媒关于我们
+映马传媒关于我们 (https://www.insmarkmcn.com/about-influencer-agency.html)
 
 交个朋友海外SSG
 
 红人营销 · 内容制作 · 海外PR
 
-SSG官网
+SSG官网 (https://www.ssgkol.com/zh)
 
 红毛猩猩PONGO
 
 本土红人 · 内容创作 · 整合营销
 
-PONGO红人营销服务
+PONGO红人营销服务 (https://www.pongoshare.cn/influencermarketing/)
 
 竞争分析建议：资源竞争——谁能找到合适的海外红人；效率竞争——谁能更快完成筛选与合作；服务竞争——谁能把内容、执行与复盘做好。三项是对样本的分析归纳，不是报告原文或量化统计。
 
@@ -503,6 +503,22 @@ Tab／Shift+Tab
 地址与历史建议：每页可直接访问，刷新保留当前页，浏览器前进后退恢复对应页面；未知地址回到合作需求地图。语义地址建议为 cover、map、market、experience、needs、position、methods、workflow、cooperation、execution、network、platform；地址名称属于实现接口建议，不作为页面文案。
 
 待确认内容与素材
+
+统一素材库：桌面“AI获客合作提案素材库”文件夹，按页面子文件夹整理。后续同步以实际检查到的文件为准，不将尚未发现的素材标为已提供。本次检查日期：2026 年 9 月 17 日。
+
+对应页面与用途
+
+素材库内路径
+
+状态与读取入口
+
+P01 封面头像
+
+第1页/22b16f6becbf40619119c9a4e5de7a5f.png
+
+已提供，原始 PNG 图片；头像原图直链 (https://answerz23.github.io/xiangxing-content-brief/assets/p01-avatar.png)。用于主标题下“头像＋赵杨春”，不增加身份说明。
+
+本次素材库实际发现 1 个文件。云蝠帖子、评论区、私信截图以及其他案例素材尚未在此文件夹中发现，下列相关待补事项继续保留。Claude Design 可通过上述公开图片直链读取素材，本地路径只用于文件对应。
 
 P03：六样本方案及核心结论尚待用户确认；如继续要求全国总数或分层数量，需补可靠统计来源。保持国内口径。
 
